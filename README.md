@@ -1,4 +1,4 @@
-![Image application streamlit sentiment analysis]()
+![Image application streamlit sentiment analysis](https://github.com/Lmssnlab/Streamlit_sentiment_analysis/blob/main/Capture%20d%E2%80%99e%CC%81cran%202024-06-23%20a%CC%80%2022.15.58.png)
 
 # Application d'Analyse de Sentiment
 
