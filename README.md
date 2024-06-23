@@ -1,4 +1,4 @@
-
+![Image application streamlit sentiment analysis]()
 
 # Application d'Analyse de Sentiment
 
