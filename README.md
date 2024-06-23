@@ -33,7 +33,7 @@ streamlit run app.py
 
 2. Ouvrez votre navigateur et accédez à l'URL indiquée (généralement http://localhost:8501)
 
-3. Utilisez l'interface pour charger un fichier CSV, analyser les sentiments et explorer les résultats
+3. Utilisez l'interface pour charger un fichier CSV, analyser les sentiments et explorer les résultats (lien vers fichier csv pour tester)[https://github.com/Lmssnlab/Streamlit_sentiment_analysis/blob/main/Fichier%20de%20commentaire%20de%20test.csv]
 
 ## Structure du fichier CSV
 Le fichier CSV doit contenir une colonne nommée 'comment' contenant les commentaires à analyser.
